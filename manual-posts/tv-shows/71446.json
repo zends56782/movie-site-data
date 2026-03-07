@@ -216,7 +216,7 @@
           "episodeTitle": "Tú lo has buscado",
           "episodeDescription": "Raquel loses her trust in Ángel. Arturo prepares another plan to escape, but becomes devastated upon discovering Mónica and Denver's affair. Ángel, who is taken off the case, is in a coma after a car accident while driving drunk.",
           "episodeImage": "https://image.tmdb.org/t/p/w300/6lsBtJa6t53Uc8CrZQSnojXCvZK.jpg",
-          "episodeRuntime": "1h 11m",
+          "episodeRuntime": "1h 11min",
           "episodeAirDate": "2017-06-20",
           "players": {
             "streamp2p": {
@@ -239,11 +239,11 @@
         },
         {
           "episodeNumber": 9,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "El que la sigue la consigue",
+          "episodeDescription": "The Professor talks with Raquel's mother on stressful conditions. Berlin wants thieves to choose between money and freedom from the hostages.",
+          "episodeImage": "https://m.media-amazon.com/images/M/MV5BMDAwYTBkNTMtYjJjMS00ZmM0LTkyNDEtZmQ1OTVmNmE3YTMzXkEyXkFqcGc@._V1_QL75_UX583.5_.jpg",
+          "episodeRuntime": "1h 15min",
+          "episodeAirDate": "2017-06-27",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#afrdzt",
@@ -372,5 +372,5 @@
   ],
   "type": "tv",
   "isManualEdit": true,
-  "lastModified": "2026-03-07T12:42:11.686Z"
+  "lastModified": "2026-03-07T12:44:12.348Z"
 }
