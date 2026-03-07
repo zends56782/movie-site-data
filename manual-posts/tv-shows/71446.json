@@ -213,11 +213,11 @@
         },
         {
           "episodeNumber": 8,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Tú lo has buscado",
+          "episodeDescription": "Raquel loses her trust in Ángel. Arturo prepares another plan to escape, but becomes devastated upon discovering Mónica and Denver's affair. Ángel, who is taken off the case, is in a coma after a car accident while driving drunk.",
+          "episodeImage": "https://image.tmdb.org/t/p/w300/6lsBtJa6t53Uc8CrZQSnojXCvZK.jpg",
+          "episodeRuntime": "1h 11m",
+          "episodeAirDate": "2017-06-20",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#qpcveu",
@@ -372,5 +372,5 @@
   ],
   "type": "tv",
   "isManualEdit": true,
-  "lastModified": "2026-03-07T01:12:52.562Z"
+  "lastModified": "2026-03-07T12:42:11.686Z"
 }
