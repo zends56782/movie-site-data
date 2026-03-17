@@ -368,9 +368,248 @@
           }
         }
       ]
+    },
+    {
+      "seasonNumber": 2,
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#5a33jp",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#5a33jp&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#iaiob",
+              "downloadLink": "https://skyflixer.seekplayer.me/#iaiob&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#t1uqtq",
+              "downloadLink": "https://skyflixer.upn.one/#t1uqtq&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#gwzdhn",
+              "downloadLink": "https://skyflixer.rpmplay.me/#gwzdhn&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 2,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#6miigz",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#6miigz&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#kckbb",
+              "downloadLink": "https://skyflixer.seekplayer.me/#kckbb&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#3zkq5v",
+              "downloadLink": "https://skyflixer.upn.one/#3zkq5v&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#khdysr",
+              "downloadLink": "https://skyflixer.rpmplay.me/#khdysr&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 3,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#3ucc53",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#3ucc53&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#ovod1",
+              "downloadLink": "https://skyflixer.seekplayer.me/#ovod1&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#ms5fmy",
+              "downloadLink": "https://skyflixer.upn.one/#ms5fmy&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#lixr65",
+              "downloadLink": "https://skyflixer.rpmplay.me/#lixr65&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 4,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#qpggnu",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#qpggnu&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#jnjry",
+              "downloadLink": "https://skyflixer.seekplayer.me/#jnjry&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#hu1ghm",
+              "downloadLink": "https://skyflixer.upn.one/#hu1ghm&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#w8bnet",
+              "downloadLink": "https://skyflixer.rpmplay.me/#w8bnet&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 5,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#pnttox",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#pnttox&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#6e6f1",
+              "downloadLink": "https://skyflixer.seekplayer.me/#6e6f1&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#vydcvr",
+              "downloadLink": "https://skyflixer.upn.one/#vydcvr&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#eaqlzr",
+              "downloadLink": "https://skyflixer.rpmplay.me/#eaqlzr&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 6,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#pnttot",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#pnttot&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#nqn5q",
+              "downloadLink": "https://skyflixer.seekplayer.me/#nqn5q&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#pdyiph",
+              "downloadLink": "https://skyflixer.upn.one/#pdyiph&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#96rgmc",
+              "downloadLink": "https://skyflixer.rpmplay.me/#96rgmc&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 7,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#njrrsu",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#njrrsu&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#sbswy",
+              "downloadLink": "https://skyflixer.seekplayer.me/#sbswy&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#6lab6z",
+              "downloadLink": "https://skyflixer.upn.one/#6lab6z&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#zbi6nc",
+              "downloadLink": "https://skyflixer.rpmplay.me/#zbi6nc&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 8,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#3ucc5b",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#3ucc5b&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#h9heu",
+              "downloadLink": "https://skyflixer.seekplayer.me/#h9heu&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#gpvygv",
+              "downloadLink": "https://skyflixer.upn.one/#gpvygv&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#61jwoc",
+              "downloadLink": "https://skyflixer.rpmplay.me/#61jwoc&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 9,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#s1nnhh",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#s1nnhh&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#kckbp",
+              "downloadLink": "https://skyflixer.seekplayer.me/#kckbp&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#i9wmhl",
+              "downloadLink": "https://skyflixer.upn.one/#i9wmhl&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#cmgkuu",
+              "downloadLink": "https://skyflixer.rpmplay.me/#cmgkuu&dl=1"
+            }
+          }
+        }
+      ]
     }
   ],
   "type": "tv",
   "isManualEdit": true,
-  "lastModified": "2026-03-17T05:27:21.658Z"
+  "lastModified": "2026-03-17T11:29:18.301Z"
 }
