@@ -31,10 +31,10 @@
       "episodes": [
         {
           "episodeNumber": 1,
-          "episodeTitle": "Efectuar lo acordado",
-          "episodeDescription": "The Professor recruits a young female robber and seven other criminals for a grand heist, targeting the Royal Mint of Spain.",
+          "episodeTitle": "Do as Planned",
+          "episodeDescription": "The Professor recruits a young woman and seven other criminals for a bold heist targeting the Royal Mint of Spain. As the group takes hostages, the police begin negotiations.",
           "episodeImage": "https://image.tmdb.org/t/p/w300/7ha4rNW2lmJGAxi9lRho0UwynnX.jpg",
-          "episodeRuntime": "1h 30min",
+          "episodeRuntime": "48 min",
           "episodeAirDate": "2017-12-20",
           "players": {
             "streamp2p": {
@@ -57,11 +57,11 @@
         },
         {
           "episodeNumber": 2,
-          "episodeTitle": "Imprudencias letales",
-          "episodeDescription": "Hostage negotiator Raquel makes initial contact with the Professor. One of the hostages is a crucial part of the thieves' plans.",
+          "episodeTitle": "Lethal Negligence",
+          "episodeDescription": "Negotiator Raquel establishes contact while the robbers manage growing tension inside. One hostage becomes crucial to the gang’s plan.",
           "episodeImage": "https://image.tmdb.org/t/p/w300/e5sVue90Xd7kbTLrfbArexjpPEz.jpg",
-          "episodeRuntime": "1h 4min",
-          "episodeAirDate": "2017-05-09",
+          "episodeRuntime": "42 min",
+          "episodeAirDate": "2017-12-20",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#njqemx",
@@ -83,11 +83,11 @@
         },
         {
           "episodeNumber": 3,
-          "episodeTitle": "Errar al disparar",
-          "episodeDescription": "Police grab an image of the face of one of the robbers. Raquel is suspicious of the gentleman she meets at a bar.",
+          "episodeTitle": "Mistakes Were Made",
+          "episodeDescription": "Police obtain a key clue about one robber’s identity. Raquel grows suspicious of a man she meets outside the case.",
           "episodeImage": "https://image.tmdb.org/t/p/w300/mS4EuitwU6QJuZZcy9ndDGDmgEp.jpg",
-          "episodeRuntime": "1h 8min",
-          "episodeAirDate": "2017-05-16",
+          "episodeRuntime": "51 min",
+          "episodeAirDate": "2017-12-20",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#trmsix",
@@ -109,11 +109,11 @@
         },
         {
           "episodeNumber": 4,
-          "episodeTitle": "Caballo de Troya",
-          "episodeDescription": "Raquel is adversely affected by a personal crisis with her ex-husband. The hostages are afraid of the sound of gunshots they heard. Thieves argue among themselves.",
-          "episodeImage": "https://image.tmdb.org/t/p/w300/h1Jt1XUkSdUGf2NM4PK1yN463tN.jpg",
-          "episodeRuntime": "1h 9min",
-          "episodeAirDate": "2017-05-23",
+          "episodeTitle": "Trojan Horse",
+          "episodeDescription": "The heist faces complications as pressure builds inside the Mint. The Professor anticipates police strategies and adapts his plan.",
+          "episodeImage": "https://image.tmdb.org/t/p/w300/yjhor5WRJFWI3T6MeZe0gfgCgqH.jpg",
+          "episodeRuntime": "52 min",
+          "episodeAirDate": "2017-12-20",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#s1ym9f",
@@ -135,11 +135,11 @@
         },
         {
           "episodeNumber": 5,
-          "episodeTitle": "El día de la marmota",
-          "episodeDescription": "A sudden development in the investigation and a mistake made by one of the thieves confronts the Professor with a serious risk that could lead to his identity being revealed.",
-          "episodeImage": "https://image.tmdb.org/t/p/w300/i4uvi0zrSui94jdO0CkMoN3DVwY.jpg",
-          "episodeRuntime": "1h 12min",
-          "episodeAirDate": "2017-05-30",
+          "episodeTitle": "The Day of the Groundhog",
+          "episodeDescription": "A critical error threatens the operation while emotional tensions rise among the robbers and hostages.",
+          "episodeImage": "https://image.tmdb.org/t/p/w300/6NihvjQBu4wuak8P5OEllPlwRBQ.jpg",
+          "episodeRuntime": "44 min",
+          "episodeAirDate": "2017-12-20",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#8zipo8",
@@ -161,11 +161,11 @@
         },
         {
           "episodeNumber": 6,
-          "episodeTitle": "La cálida Guerra Fría",
-          "episodeDescription": "As the Professor rushes out of the scrap yard, a man sees him. The Professor threatens to kill the man's family. Berlin discovers that Denver did not kill Mónica as ordered and comes close to executing him for his disobedience.",
-          "episodeImage": "https://image.tmdb.org/t/p/w300/rGfZXEba8shIyNViwSuPbGwHenw.jpg",
-          "episodeRuntime": "1h 18min",
-          "episodeAirDate": "2017-06-06",
+          "episodeTitle": "The Warm Cold War",
+          "episodeDescription": "The Professor must act quickly to stay hidden as the investigation intensifies. Inside, trust issues begin to fracture the group.",
+          "episodeImage": "https://image.tmdb.org/t/p/w300/hz2nEBW1eVHTBYlmJuHwPvIDjHw.jpg",
+          "episodeRuntime": "45 min",
+          "episodeAirDate": "2017-12-20",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#3uzwhz",
@@ -187,11 +187,11 @@
         },
         {
           "episodeNumber": 7,
-          "episodeTitle": "Refrigerada inestabilidad",
-          "episodeDescription": "The robbers initiate a plan to use the hostages to stall the police and gain more time, but Raquel takes the chance to reveal a secret that Berlin has kept from the others. She also makes an attempt to convince Rio to surrender.",
+          "episodeTitle": "Cold Comfort",
+          "episodeDescription": "The standoff continues as both sides try to outmaneuver each other. Pressure inside the Mint pushes everyone toward breaking point.",
           "episodeImage": "https://image.tmdb.org/t/p/w300/9tkuidt1yvT6cqiOXE05BVTONwE.jpg",
-          "episodeRuntime": "1h 10min",
-          "episodeAirDate": "2017-06-13",
+          "episodeRuntime": "49 min",
+          "episodeAirDate": "2017-12-20",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#uyxk6y",
@@ -213,11 +213,11 @@
         },
         {
           "episodeNumber": 8,
-          "episodeTitle": "Tú lo has buscado",
-          "episodeDescription": "Raquel loses her trust in Ángel. Arturo prepares another plan to escape, but becomes devastated upon discovering Mónica and Denver's affair. Ángel, who is taken off the case, is in a coma after a car accident while driving drunk.",
+          "episodeTitle": "You Asked for It",
+          "episodeDescription": "Police attempt new infiltration tactics while the Professor stays one step ahead. Cracks in the plan begin to emerge.",
           "episodeImage": "https://image.tmdb.org/t/p/w300/6lsBtJa6t53Uc8CrZQSnojXCvZK.jpg",
-          "episodeRuntime": "1h 11m",
-          "episodeAirDate": "2017-06-20",
+          "episodeRuntime": "45 min",
+          "episodeAirDate": "2017-12-20",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#qpcveu",
@@ -239,11 +239,11 @@
         },
         {
           "episodeNumber": 9,
-          "episodeTitle": "El que la sigue la consigue",
-          "episodeDescription": "The Professor talks with Raquel's mother on stressful conditions. Berlin wants thieves to choose between money and freedom from the hostages.",
+          "episodeTitle": "Whoever Keeps Trying Wins",
+          "episodeDescription": "Chaos erupts as hostages take action, forcing the robbers to respond quickly. The situation grows increasingly unstable.",
           "episodeImage": "https://image.tmdb.org/t/p/w300/jfGc6ZB4LfCpTUPxxXjHIbUJsjt.jpg",
-          "episodeRuntime": "1h 15min",
-          "episodeAirDate": "2017-06-27",
+          "episodeRuntime": "44 min",
+          "episodeAirDate": "2017-12-20",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#afrdzt",
@@ -265,11 +265,11 @@
         },
         {
           "episodeNumber": 10,
-          "episodeTitle": "Se acabaron las máscaras",
-          "episodeDescription": "Police search the discovered villa and find planted evidence; tensions explode when the Professor is captured and later manipulates his way out with the help of Raquel. Inside the Mint, mutiny brews.",
-          "episodeImage": "https://image.tmdb.org/t/p/w300/o2ohwlIbzDRVP5XFLTF2VFpDiYD.jpg",
-          "episodeRuntime": "1h 9m Air Date: October 16, 2017\nPolice search the discovered villa and find planted evidence; tensions explode when the Professor is captured and later manipulates his way out with the help of Raquel. Inside the Mint, mutiny brews.",
-          "episodeAirDate": "October 16, 2017",
+          "episodeTitle": "No More Masks",
+          "episodeDescription": "Evidence begins to threaten the Professor’s identity while internal conflicts intensify among the crew.",
+          "episodeImage": "https://image.tmdb.org/t/p/w300/1ePgd8OUgBIsuQ03OGz76zwRe9d.jpg",
+          "episodeRuntime": "56 min",
+          "episodeAirDate": "2017-12-20",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#5ath89",
@@ -291,11 +291,11 @@
         },
         {
           "episodeNumber": 11,
-          "episodeTitle": "La cabeza del plan",
-          "episodeDescription": "With the Professor temporarily gone, Berlin lashes out over Tokyo’s mutiny; Tokyo faces interrogation while the team copes with the uncertainty of their leader’s fate.",
+          "episodeTitle": "The Head of the Plan",
+          "episodeDescription": "The robbers struggle to maintain control as the police close in. Emotional and strategic tensions rise sharply.",
           "episodeImage": "https://image.tmdb.org/t/p/w300/iA95Wzc5qZdwVLspsmzuJCCxaE9.jpg",
-          "episodeRuntime": "1h 7m Air Date: October 23, 2017\nWith the Professor temporarily gone, Berlin lashes out over Tokyo’s mutiny; Tokyo faces interrogation while the team copes with the uncertainty of their leader’s fate.",
-          "episodeAirDate": "October 23, 2017",
+          "episodeRuntime": "44 min",
+          "episodeAirDate": "2017-12-20",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#6mkual",
@@ -317,11 +317,11 @@
         },
         {
           "episodeNumber": 12,
-          "episodeTitle": "Cuestión de eficacia",
-          "episodeDescription": "The Professor promises Tokyo’s freedom to regain control; Raquel sets a trap hoping to draw the Professor into the open, and a hoax is used to test his reactions.",
+          "episodeTitle": "A Question of Efficiency",
+          "episodeDescription": "A high-risk plan is launched to regain advantage. Both sides prepare for a major turning point in the heist.",
           "episodeImage": "https://image.tmdb.org/t/p/w300/yc9iceAxWhDIEOxB6wHXiKNgAas.jpg",
-          "episodeRuntime": "1h 10m Air Date: November 02, 2017\nThe Professor promises Tokyo’s freedom to regain control; Raquel sets a trap hoping to draw the Professor into the open, and a hoax is used to test his reactions.",
-          "episodeAirDate": "November 02, 2017",
+          "episodeRuntime": "45 min",
+          "episodeAirDate": "2017-12-20",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#yo3lb9",
@@ -343,11 +343,11 @@
         },
         {
           "episodeNumber": 13,
-          "episodeTitle": "¿Qué hemos hecho?",
-          "episodeDescription": "Raquel interrogates the Professor at the villa, and emotional truths surface as loyalties and secrets collide; Tokyo makes a daring return to the Mint that changes the game.",
+          "episodeTitle": "What Have We Done?",
+          "episodeDescription": "As the heist nears a crucial stage, the robbers push toward escape. The outcome remains uncertain as tensions peak.",
           "episodeImage": "https://image.tmdb.org/t/p/w300/hQjEfTEcNq3CQvMCucWExZktH6E.jpg",
-          "episodeRuntime": "1h 14m Air Date: November 09, 2017\nRaquel interrogates the Professor at the villa, and emotional truths surface as loyalties and secrets collide; Tokyo makes a daring return to the Mint that changes the game.",
-          "episodeAirDate": "November 09, 2017",
+          "episodeRuntime": "56 min",
+          "episodeAirDate": "2017-12-20",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#qpcvlg",
@@ -372,5 +372,5 @@
   ],
   "type": "tv",
   "isManualEdit": true,
-  "lastModified": "2026-03-09T11:16:22.641Z"
+  "lastModified": "2026-03-17T05:22:30.720Z"
 }
