@@ -374,11 +374,11 @@
       "episodes": [
         {
           "episodeNumber": 1,
-          "episodeTitle": "",
-          "episodeDescription": "",
+          "episodeTitle": "We’re Back",
+          "episodeDescription": "The Professor reunites the team to execute an even bigger heist at the Bank of Spain. As they prepare, old relationships and new tensions begin to surface.",
+          "episodeRuntime": "54 min",
+          "episodeAirDate": "2020-04-03",
           "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#5a33jp",
@@ -400,11 +400,11 @@
         },
         {
           "episodeNumber": 2,
-          "episodeTitle": "",
-          "episodeDescription": "",
+          "episodeTitle": "Aikido",
+          "episodeDescription": "The group puts their new plan into motion, carefully entering the Bank of Spain. Meanwhile, the authorities scramble to understand their strategy.",
+          "episodeRuntime": "42 min",
+          "episodeAirDate": "2020-04-03",
           "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#6miigz",
@@ -426,11 +426,11 @@
         },
         {
           "episodeNumber": 3,
-          "episodeTitle": "",
-          "episodeDescription": "",
+          "episodeTitle": "48 Meters Underground",
+          "episodeDescription": "The heist intensifies as the robbers take control inside the bank. Outside, the police work to counter the Professor’s moves.",
+          "episodeRuntime": "43 min",
+          "episodeAirDate": "2020-04-03",
           "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#3ucc53",
@@ -452,11 +452,11 @@
         },
         {
           "episodeNumber": 4,
-          "episodeTitle": "",
-          "episodeDescription": "",
+          "episodeTitle": "Boom, Boom, Ciao",
+          "episodeDescription": "A critical explosion shifts the balance of power. The team faces unexpected resistance as emotions begin to run high.",
+          "episodeRuntime": "44 min",
+          "episodeAirDate": "2020-04-03",
           "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#qpggnu",
@@ -478,11 +478,11 @@
         },
         {
           "episodeNumber": 5,
-          "episodeTitle": "",
-          "episodeDescription": "",
+          "episodeTitle": "The Red Boxes",
+          "episodeDescription": "The Professor’s backup plans come into play as the police close in. Inside, trust issues threaten the operation.",
+          "episodeRuntime": "44 min",
+          "episodeAirDate": "2020-04-03",
           "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#pnttox",
@@ -504,11 +504,11 @@
         },
         {
           "episodeNumber": 6,
-          "episodeTitle": "",
-          "episodeDescription": "",
+          "episodeTitle": "TKO",
+          "episodeDescription": "The situation escalates when one of the team members is pushed to the limit. Both sides prepare for a major confrontation.",
+          "episodeRuntime": "46 min",
+          "episodeAirDate": "2020-04-03",
           "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#pnttot",
@@ -530,11 +530,11 @@
         },
         {
           "episodeNumber": 7,
-          "episodeTitle": "",
-          "episodeDescription": "",
+          "episodeTitle": "Little Vacation",
+          "episodeDescription": "The robbers attempt to regain control while dealing with internal conflict. Outside, the investigation takes a surprising turn.",
+          "episodeRuntime": "43 min",
+          "episodeAirDate": "2020-04-03",
           "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#njrrsu",
@@ -556,11 +556,11 @@
         },
         {
           "episodeNumber": 8,
-          "episodeTitle": "",
-          "episodeDescription": "",
+          "episodeTitle": "Plan Paris",
+          "episodeDescription": "A bold rescue plan is set into motion as the Professor faces mounting pressure. The stakes grow higher than ever.",
+          "episodeRuntime": "48 min",
+          "episodeAirDate": "2020-04-03",
           "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#3ucc5b",
@@ -582,11 +582,11 @@
         },
         {
           "episodeNumber": 9,
-          "episodeTitle": "",
-          "episodeDescription": "",
+          "episodeTitle": "Endgame",
+          "episodeDescription": "The heist reaches a dramatic turning point as both sides push toward victory. The outcome hangs in the balance.",
+          "episodeRuntime": "55 min",
+          "episodeAirDate": "2020-04-03",
           "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#s1nnhh",
@@ -611,5 +611,5 @@
   ],
   "type": "tv",
   "isManualEdit": true,
-  "lastModified": "2026-03-17T11:30:44.624Z"
+  "lastModified": "2026-03-18T01:19:00.412Z"
 }
