@@ -1263,11 +1263,11 @@
       "episodes": [
         {
           "episodeNumber": 1,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Execution",
+          "episodeDescription": "Yuji faces the consequences of Shibuya as his execution is ordered. Yuta Okkotsu is sent to carry out the sentence .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2026-01-08",
+          "episodeImage": "https://image.tmdb.org/t/p/w300/5WmyVAeKXVaoErMLis40CQWoeEt.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#3uxjvg",
@@ -1289,11 +1289,11 @@
         },
         {
           "episodeNumber": 2,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "One More Time",
+          "episodeDescription": "Yuji and Yuta's battle reaches a turning point. A secret plan is revealed that changes everything .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2026-01-15",
+          "episodeImage": "https://image.tmdb.org/t/p/w300/w0Zk07fqo2bEKHmIreGk4KvN7ax.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#qp9f19",
@@ -1315,11 +1315,11 @@
         },
         {
           "episodeNumber": 3,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "About the Culling Game",
+          "episodeDescription": "Itadori and his friends speak with Tengen about Kenjaku's objectives and their plans for the Culling Game .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2026-01-22",
+          "episodeImage": "https://media.themoviedb.org/t/p/w500_and_h282_face/z07xXswfYv0TqA0doPpW0ZosQ0Q.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#5ar1l3",
@@ -1341,11 +1341,11 @@
         },
         {
           "episodeNumber": 4,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Perfect Preparation",
+          "episodeDescription": "The sorcerers prepare for the Culling Game. Each player makes their final arrangements before entering .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2026-01-29",
+          "episodeImage": "https://image.tmdb.org/t/p/w300/kGNQcoL2zigPdrlDkZ40rh9tH95.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#6ml3pd",
@@ -1367,11 +1367,11 @@
         },
         {
           "episodeNumber": 5,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Fever",
+          "episodeDescription": "Yaga is executed. Yuji and Fushiguro go to Hakari's territory to recruit him for the battle .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2026-02-05",
+          "episodeImage": "https://image.tmdb.org/t/p/w300/lOFXDWX2sJSsWiGOdRf5Akp1AIC.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#youke3",
@@ -1390,11 +1390,115 @@
               "downloadLink": "https://skyflixer.rpmplay.me/#lie69x&dl=1"
             }
           }
+        },
+        {
+          "episodeNumber": 6,
+          "episodeTitle": "Cog",
+          "episodeDescription": "The players enter the Culling Game colonies. Rules and objectives become clear as the game begins .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2026-02-12",
+          "episodeImage": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "seekstreaming": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "upnshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "rpmshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            }
+          }
+        },
+        {
+          "episodeNumber": 7,
+          "episodeTitle": "Tokyo",
+          "episodeDescription": "Battles erupt across the Tokyo colony. Yuji faces his first opponent in the Culling Game .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2026-02-19",
+          "episodeImage": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "seekstreaming": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "upnshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "rpmshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            }
+          }
+        },
+        {
+          "episodeNumber": 8,
+          "episodeTitle": "Colony Battle",
+          "episodeDescription": "Multiple sorcerers clash as points become crucial. Alliances form and break in the deadly game .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2026-02-26",
+          "episodeImage": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "seekstreaming": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "upnshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "rpmshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            }
+          }
+        },
+        {
+          "episodeNumber": 9,
+          "episodeTitle": "The Hunter and the Hunted",
+          "episodeDescription": "Yuji and his allies navigate the dangerous colonies. New enemies reveal their cursed techniques .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2026-03-05",
+          "episodeImage": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "seekstreaming": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "upnshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "rpmshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            }
+          }
         }
       ]
     }
   ],
   "type": "tv",
   "isManualEdit": true,
-  "lastModified": "2026-03-28T08:05:36.287Z"
+  "lastModified": "2026-03-28T08:09:58.691Z"
 }
