@@ -659,12 +659,38 @@
       "seasonNumber": 2,
       "episodes": [
         {
-          "episodeNumber": 2,
-          "episodeTitle": "",
-          "episodeDescription": "",
+          "episodeNumber": 1,
+          "episodeTitle": "Hidden Inventory",
+          "episodeDescription": "In 2006, Gojo and Geto are assigned to protect the Star Plasma Vessel. They face off against the Time Vessel Association and a sorcerer killer .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-07-06",
           "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "seekstreaming": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "upnshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "rpmshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            }
+          }
+        },
+        {
+          "episodeNumber": 2,
+          "episodeTitle": "Hidden Inventory 2",
+          "episodeDescription": "Gojo and Geto continue their mission to protect Riko Amanai. They encounter unexpected resistance from Toji Fushiguro .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-07-13",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/wR1ss0SiN0EjKOPgrGfCm9FzdVD.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#trgos9",
@@ -686,11 +712,11 @@
         },
         {
           "episodeNumber": 3,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Hidden Inventory 3",
+          "episodeDescription": "The mission takes a dark turn as Toji proves to be a formidable enemy. Gojo faces a life-changing confrontation .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-07-20",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/xNMW94wR8jfsXZbMK3XD2ftOUd0.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#qp9fvx",
@@ -712,11 +738,11 @@
         },
         {
           "episodeNumber": 4,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Hidden Inventory 4",
+          "episodeDescription": "Gojo awakens to his true power after a devastating encounter. The fate of the Star Plasma Vessel is sealed .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-07-27",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/hiWLnViLZISiSWmMi5aLUcWz79M.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#ievctm",
@@ -738,11 +764,11 @@
         },
         {
           "episodeNumber": 5,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Premature Death",
+          "episodeDescription": "The aftermath of the mission changes Geto forever. His path diverges from Gojo as darkness takes hold .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-08-03",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/mPm5BPw4dujoEHZNjpYTUEBLBZz.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#6ml3ue",
@@ -764,11 +790,11 @@
         },
         {
           "episodeNumber": 6,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "It's Like That",
+          "episodeDescription": "In present day, Yuji and his friends face new threats. The Shibuya Incident begins to unfold .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-08-10",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/gjWLlxTUqzf7t4HsMQhUCxke5EW.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#wkj8ce",
@@ -790,11 +816,11 @@
         },
         {
           "episodeNumber": 7,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Red Scale",
+          "episodeDescription": "Yuji and Megumi enter Shibuya to rescue civilians. Cursed spirits have trapped people in the subway .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-08-17",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/5sVDG2UKlryQ3YhAMzSHKwXE0nF.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#dbhtuz",
@@ -816,11 +842,11 @@
         },
         {
           "episodeNumber": 8,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "The Shibuya Incident",
+          "episodeDescription": "Gojo arrives in Shibuya and confronts the cursed spirits. His power overwhelms the enemy forces .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-08-24",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/AwgGz4NcjZEv65DoCx4sOoZ2hdn.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#e8i9rz",
@@ -842,11 +868,11 @@
         },
         {
           "episodeNumber": 9,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Shibuya Incident Gate Closed",
+          "episodeDescription": "Gojo is sealed away by a special curtain. The sorcerers are left without their strongest weapon .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-08-31",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/iWpee6FUvkhvA2ZQuWxRkwIltjy.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#uy3win",
@@ -868,11 +894,11 @@
         },
         {
           "episodeNumber": 10,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Pandemonium",
+          "episodeDescription": "With Gojo sealed, chaos erupts in Shibuya. Multiple battles break out across the district .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-09-07",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/wbeKG5lUim0kUzygMojZ5XLH7ar.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#klwz9m",
@@ -894,11 +920,11 @@
         },
         {
           "episodeNumber": 11,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Seance",
+          "episodeDescription": "Nanami and the students fight against powerful curses. Mahito reveals his evolved form .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-09-14",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/vVKd4JzK1UV6sxuiPL28gZdtT4Q.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#s1o6ms",
@@ -920,11 +946,11 @@
         },
         {
           "episodeNumber": 12,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Dull Knife",
+          "episodeDescription": "Nanami faces off against Mahito in a brutal battle. The cost of being a sorcerer becomes clear .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-09-21",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/6CIaldfN1D3DyeqRELOaTgGlVLu.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#8zeq5m",
@@ -946,11 +972,11 @@
         },
         {
           "episodeNumber": 13,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Red Serpent",
+          "episodeDescription": "Yuji confronts Mahito to avenge his friends. Their battle reaches new intensity .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-09-28",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/kdpIM5MToGTQMwHCTpuMyabC7xu.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#hd1gt1",
@@ -972,11 +998,11 @@
         },
         {
           "episodeNumber": 14,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Fluctuations",
+          "episodeDescription": "Multiple factions clash in Shibuya. Geto's true identity is questioned .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-10-05",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/iKXFjdV8tmrQmqro2AsJ2e1AwjN.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#l6kxqr",
@@ -998,11 +1024,11 @@
         },
         {
           "episodeNumber": 15,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Fluctuations 2",
+          "episodeDescription": "The truth about Geto is revealed. Kenjaku's plan comes to light .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-10-12",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/uUIXH9nBl7HFoaomIlL4CTolq39.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#youkee",
@@ -1024,11 +1050,11 @@
         },
         {
           "episodeNumber": 16,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Thunderclap",
+          "episodeDescription": "Todo arrives to help Yuji in his fight. The battle against Mahito intensifies .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-10-19",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/vzNGwCOfpuytEmR2UO29trlodjy.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#osyl8t",
@@ -1050,11 +1076,11 @@
         },
         {
           "episodeNumber": 17,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Thunderclap 2",
+          "episodeDescription": "Yuji and Todo work together against Mahito. Black Flash strikes again .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-10-26",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/g9yiVw2BHqThSeevyuKBoJrsTpM.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#3uxjve",
@@ -1076,11 +1102,11 @@
         },
         {
           "episodeNumber": 18,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Right and Wrong",
+          "episodeDescription": "Mahito evolves further through his encounters. Yuji questions the nature of the soul .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-11-02",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/sduM7W14ngIFUMnXaWfjb96lv0I.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#fvadm9",
@@ -1102,11 +1128,11 @@
         },
         {
           "episodeNumber": 19,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Right and Wrong 2",
+          "episodeDescription": "The battle with Mahito reaches its climax. Yuji delivers a decisive blow .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-11-09",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/rAZeDUOFLQoLgEqcjvNoMy7lmpB.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#jwnebc",
@@ -1128,11 +1154,11 @@
         },
         {
           "episodeNumber": 20,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Right and Wrong 3",
+          "episodeDescription": "Mahito faces his final confrontation. The outcome changes everything .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-12-07",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/irunrX4hAbsTWUTZpWNJXg1Asbv.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#1hsmxt",
@@ -1154,11 +1180,11 @@
         },
         {
           "episodeNumber": 21,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Metamorphosis",
+          "episodeDescription": "Sukuna is freed from his seal. The King of Curses begins his rampage .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-12-14",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/lItVwAU21e8qp14AaulanGtkJDY.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#pnqvhm",
@@ -1180,11 +1206,11 @@
         },
         {
           "episodeNumber": 22,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Transformation",
+          "episodeDescription": "Sukuna's devastation of Shibuya continues. Thousands perish in his attack .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-12-21",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/pg4bblgq3ywpFOphH5tEerg7Tu8.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#bcdryj",
@@ -1206,11 +1232,11 @@
         },
         {
           "episodeNumber": 23,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "The Shibuya Incident Gate Closed",
+          "episodeDescription": "The Shibuya Incident concludes with heavy losses. The jujutsu world faces a new era of darkness .",
+          "episodeRuntime": "24 min",
+          "episodeAirDate": "2023-12-28",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/sBcwd2U4aVIGixTIuxjOe8QBDEY.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#pnqvhc",
@@ -1227,32 +1253,6 @@
             "rpmshare": {
               "videoLink": "https://skyflixer.rpmplay.me/#tlh9vv",
               "downloadLink": "https://skyflixer.rpmplay.me/#tlh9vv&dl=1"
-            }
-          }
-        },
-        {
-          "episodeNumber": 25,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
-          "players": {
-            "streamp2p": {
-              "videoLink": "https://skyflixerpro.p2pplay.pro/#qp9f1p",
-              "downloadLink": "https://skyflixerpro.p2pplay.pro/#qp9f1p&dl=1"
-            },
-            "seekstreaming": {
-              "videoLink": "https://skyflixer.seekplayer.me/#9mjsg",
-              "downloadLink": "https://skyflixer.seekplayer.me/#9mjsg&dl=1"
-            },
-            "upnshare": {
-              "videoLink": "https://skyflixer.upn.one/#6l6hsg",
-              "downloadLink": "https://skyflixer.upn.one/#6l6hsg&dl=1"
-            },
-            "rpmshare": {
-              "videoLink": "https://skyflixer.rpmplay.me/#j3i81o",
-              "downloadLink": "https://skyflixer.rpmplay.me/#j3i81o&dl=1"
             }
           }
         }
@@ -1396,5 +1396,5 @@
   ],
   "type": "tv",
   "isManualEdit": true,
-  "lastModified": "2026-03-28T07:56:03.120Z"
+  "lastModified": "2026-03-28T08:05:36.287Z"
 }
