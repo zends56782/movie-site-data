@@ -1038,12 +1038,64 @@
       "seasonNumber": 5,
       "episodes": [
         {
+          "episodeNumber": 1,
+          "episodeTitle": "The End of the Road",
+          "episodeDescription": "The Professor faces off with Sierra as Tamayo raises the stakes of the negotiations by calling the army. In the past, Berlin meets with a young Palermo .",
+          "episodeRuntime": "49 min",
+          "episodeAirDate": "2021-09-03",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/vsuCslrn4bqNIBAoAr60kjcfKIq.jpg",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#osylkb",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#osylkb&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#vxzbd",
+              "downloadLink": "https://skyflixer.seekplayer.me/#vxzbd&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#r3rjge",
+              "downloadLink": "https://skyflixer.upn.one/#r3rjge&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#hem5x8",
+              "downloadLink": "https://skyflixer.rpmplay.me/#hem5x8&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 2,
+          "episodeTitle": "Do You Believe in Reincarnation?",
+          "episodeDescription": "Sierra pressures her subject to take a deal. The Professor remembers his brother's wedding. Denver's jealousy toward Mónica and Rio's friendship heightens .",
+          "episodeRuntime": "52 min",
+          "episodeAirDate": "2021-09-03",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/yWlo42n3faN9y6bx6xWfm1qsvYE.jpg",
+          "players": {
+            "streamp2p": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "seekstreaming": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "upnshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "rpmshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            }
+          }
+        },
+        {
           "episodeNumber": 3,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Welcome to the Spectacle of Life",
+          "episodeDescription": "A betrayal and an emergency both catch Sierra by surprise. Palermo rallies the troops as the army closes in on the gang .",
+          "episodeRuntime": "49 min",
+          "episodeAirDate": "2021-09-03",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/fHFvxdoZImxQ3zIEWLZjDsRG9Dl.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#pnqvfe",
@@ -1064,12 +1116,64 @@
           }
         },
         {
+          "episodeNumber": 4,
+          "episodeTitle": "Your Place in Heaven",
+          "episodeDescription": "With Helsinki's life in danger, the thieves mount a covert counter attack. Years earlier, Berlin and his son conduct their first heist together .",
+          "episodeRuntime": "50 min",
+          "episodeAirDate": "2021-09-03",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/z6TR4IsbvZmyLXn72VmPGU1Hu93.jpg",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#6ml3xv",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#6ml3xv&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#hbarn",
+              "downloadLink": "https://skyflixer.seekplayer.me/#hbarn&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#vyvwkh",
+              "downloadLink": "https://skyflixer.upn.one/#vyvwkh&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#zbrn3p",
+              "downloadLink": "https://skyflixer.rpmplay.me/#zbrn3p&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 5,
+          "episodeTitle": "Live Many Lives",
+          "episodeDescription": "While surrounded by gunfire and trapped in the kitchen, Tokyo reminisces about her first love and initial encounter with the Professor .",
+          "episodeRuntime": "49 min",
+          "episodeAirDate": "2021-09-03",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/bDLP0zhFCgJIZuzSyHevh8PJgAm.jpg",
+          "players": {
+            "streamp2p": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "seekstreaming": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "upnshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "rpmshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            }
+          }
+        },
+        {
           "episodeNumber": 6,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "Escape Valves",
+          "episodeDescription": "Tokyo, bleeding out on the ground and about to die, reflects back on the nature of gold. Sierra takes advantage of the chaos to make her move .",
+          "episodeRuntime": "50 min",
+          "episodeAirDate": "2021-12-03",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/kyFggNyULzYtXma2MsqDdzrQgXO.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "https://skyflixerpro.p2pplay.pro/#youkwm",
@@ -1090,12 +1194,64 @@
           }
         },
         {
+          "episodeNumber": 7,
+          "episodeTitle": "Wishful Science",
+          "episodeDescription": "Tamayo mounts a manhunt in his neighborhood as his foes hide. In the past, Berlin and Palermo explain their master plan to the team .",
+          "episodeRuntime": "52 min",
+          "episodeAirDate": "2021-12-03",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/dycCBXEIZJaLe6LX2tg4AP377V4.jpg",
+          "players": {
+            "streamp2p": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "seekstreaming": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "upnshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "rpmshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            }
+          }
+        },
+        {
+          "episodeNumber": 8,
+          "episodeTitle": "The Elegance Theory",
+          "episodeDescription": "The Berlin flashbacks and the Bank of Spain heist finally collide. The team works to finish extracting the gold pellets out of the bank .",
+          "episodeRuntime": "50 min",
+          "episodeAirDate": "2021-12-03",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/gtP4Hja3ktZVOiMAYLkEk9dSuRD.jpg",
+          "players": {
+            "streamp2p": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "seekstreaming": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "upnshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "rpmshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            }
+          }
+        },
+        {
           "episodeNumber": 9,
-          "episodeTitle": "",
-          "episodeDescription": "",
-          "episodeImage": "",
-          "episodeRuntime": "",
-          "episodeAirDate": "",
+          "episodeTitle": "What Is Spoken in Bed",
+          "episodeDescription": "The Professor is left reeling after his tactics are used against him. When it seems like all hope is lost, he makes a bold decision .",
+          "episodeRuntime": "47 min",
+          "episodeAirDate": "2021-12-03",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/AtD92LLJiHVjIJqNDaSw1qZeMIb.jpg",
           "players": {
             "streamp2p": {
               "videoLink": "",
@@ -1114,11 +1270,37 @@
               "downloadLink": ""
             }
           }
+        },
+        {
+          "episodeNumber": 10,
+          "episodeTitle": "A Family Tradition",
+          "episodeDescription": "With multiple lives on the line and Spain's economy at stake, the Professor and Tamayo engage in one final showdown .",
+          "episodeRuntime": "55 min",
+          "episodeAirDate": "2021-12-03",
+          "episodeImage": "https://media.themoviedb.org/t/p/w454_and_h254_face/ilpHAUoDo7xM9YBBD2oFi1q6krQ.jpg",
+          "players": {
+            "streamp2p": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "seekstreaming": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "upnshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "rpmshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            }
+          }
         }
       ]
     }
   ],
   "type": "tv",
   "isManualEdit": true,
-  "lastModified": "2026-03-28T07:07:44.145Z"
+  "lastModified": "2026-03-28T07:13:40.988Z"
 }
