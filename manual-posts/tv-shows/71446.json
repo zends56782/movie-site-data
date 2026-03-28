@@ -607,9 +607,518 @@
           }
         }
       ]
+    },
+    {
+      "seasonNumber": 3,
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "episodeTitle": "We're Back",
+          "episodeDescription": "When Rio is captured, a distraught Tokyo turns to the Professor for help. Armed with a bold new plan, they reunite the team in order to rescue him .",
+          "episodeRuntime": "50 min",
+          "episodeAirDate": "2019-07-19",
+          "episodeImage": "https://image.tmdb.org/t/p/original/vsuCslrn4bqNIBAoAr60kjcfKIq.jpg",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#ievc8i",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#ievc8i&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#kt3vw",
+              "downloadLink": "https://skyflixer.seekplayer.me/#kt3vw&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#ntnqgq",
+              "downloadLink": "https://skyflixer.upn.one/#ntnqgq&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#j3i89c",
+              "downloadLink": "https://skyflixer.rpmplay.me/#j3i89c&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 2,
+          "episodeTitle": "Aikido",
+          "episodeDescription": "The Professor recruits Martín to put his brother's plan into action and target the Bank of Spain. First step? Create total chaos .",
+          "episodeRuntime": "41 min",
+          "episodeAirDate": "2019-07-19",
+          "episodeImage": "https://image.tmdb.org/t/p/w300/yWlo42n3faN9y6bx6xWfm1qsvYE.jpg",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#pnqvji",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#pnqvji&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#18qbl",
+              "downloadLink": "https://skyflixer.seekplayer.me/#18qbl&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#t1tvss",
+              "downloadLink": "https://skyflixer.upn.one/#t1tvss&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#tlh9aa",
+              "downloadLink": "https://skyflixer.rpmplay.me/#tlh9aa&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 3,
+          "episodeTitle": "48 Meters Underground",
+          "episodeDescription": "Tokyo and Nairobi's efforts go drastically awry. The Professor recalls Berlin detailing how they'd steal the gold from the Bank of Spain .",
+          "episodeRuntime": "49 min",
+          "episodeAirDate": "2019-07-19",
+          "episodeImage": "https://image.tmdb.org/t/p/w300/fHFvxdoZImxQ3zIEWLZjDsRG9Dl.jpg",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#youksb",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#youksb&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#hbaqg",
+              "downloadLink": "https://skyflixer.seekplayer.me/#hbaqg&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#3z35hu",
+              "downloadLink": "https://skyflixer.upn.one/#3z35hu&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#ytkvel",
+              "downloadLink": "https://skyflixer.rpmplay.me/#ytkvel&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 4,
+          "episodeTitle": "The Dolphin Hour",
+          "episodeDescription": "Tamayo's breaches of protocol surprise the Professor. Bogotá calms Denver's anxieties. With time running out, Palermo initiates the Flipper plan .",
+          "episodeRuntime": "43 min",
+          "episodeAirDate": "2019-07-19",
+          "episodeImage": "https://image.tmdb.org/t/p/w300/z6TR4IsbvZmyLXn72VmPGU1Hu93.jpg",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#af5hvm",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#af5hvm&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#36tzj",
+              "downloadLink": "https://skyflixer.seekplayer.me/#36tzj&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#msm6q8",
+              "downloadLink": "https://skyflixer.upn.one/#msm6q8&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#w86ecn",
+              "downloadLink": "https://skyflixer.rpmplay.me/#w86ecn&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 5,
+          "episodeTitle": "Boom, Boom, Ciao",
+          "episodeDescription": "The Professor shocks officials with his latest stunt, but in response, a new inspector rattles Raquel. Palermo and Nairobi get into a heated argument .",
+          "episodeRuntime": "49 min",
+          "episodeAirDate": "2019-07-19",
+          "episodeImage": "https://image.tmdb.org/t/p/w300/bDLP0zhFCgJIZuzSyHevh8PJgAm.jpg",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#6ml3gw",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#6ml3gw&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#j1mh8",
+              "downloadLink": "https://skyflixer.seekplayer.me/#j1mh8&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#huhp5i",
+              "downloadLink": "https://skyflixer.upn.one/#huhp5i&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#bfjqgc",
+              "downloadLink": "https://skyflixer.rpmplay.me/#bfjqgc&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 6,
+          "episodeTitle": "Everything Seemed Insignificant",
+          "episodeDescription": "Just as Inspector Sierra orchestrates a plan to sneak a team into the Bank of Spain, the Professor and Raquel lose communication with Palermo .",
+          "episodeRuntime": "46 min",
+          "episodeAirDate": "2019-07-19",
+          "episodeImage": "https://image.tmdb.org/t/p/w300/kyFggNyULzYtXma2MsqDdzrQgXO.jpg",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#qp9fn6",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#qp9fn6&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#i9sfw",
+              "downloadLink": "https://skyflixer.seekplayer.me/#i9sfw&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#soslvf",
+              "downloadLink": "https://skyflixer.upn.one/#soslvf&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#xuqjtl",
+              "downloadLink": "https://skyflixer.rpmplay.me/#xuqjtl&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 7,
+          "episodeTitle": "A Quick Vacation",
+          "episodeDescription": "Tokyo's happiness turns bittersweet. Ángel closes in on a quarreling Raquel and the Professor. Authorities offer a multimillion-euro reward for information .",
+          "episodeRuntime": "44 min",
+          "episodeAirDate": "2019-07-19",
+          "episodeImage": "https://image.tmdb.org/t/p/w300/dycCBXEIZJaLe6LX2tg4AP377V4.jpg",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#3uxjye",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#3uxjye&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#bngik",
+              "downloadLink": "https://skyflixer.seekplayer.me/#bngik&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#kjko1x",
+              "downloadLink": "https://skyflixer.upn.one/#kjko1x&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#asxbpj",
+              "downloadLink": "https://skyflixer.rpmplay.me/#asxbpj&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 8,
+          "episodeTitle": "Astray",
+          "episodeDescription": "Tokyo attempts to drown her sorrows. Sierra uses personal tactics to target a vulnerable Nairobi, while Suárez continues to hunt down Raquel .",
+          "episodeRuntime": "57 min",
+          "episodeAirDate": "2019-07-19",
+          "episodeImage": "https://image.tmdb.org/t/p/w300/gtP4Hja3ktZVOiMAYLkEk9dSuRD.jpg",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#5ar1fb",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#5ar1fb&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#oywcx",
+              "downloadLink": "https://skyflixer.seekplayer.me/#oywcx&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#pdp9az",
+              "downloadLink": "https://skyflixer.upn.one/#pdp9az&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#3gvk6g",
+              "downloadLink": "https://skyflixer.rpmplay.me/#3gvk6g&dl=1"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "seasonNumber": 4,
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#l6kxzc",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#l6kxzc&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#pvehm",
+              "downloadLink": "https://skyflixer.seekplayer.me/#pvehm&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#dcdnxl",
+              "downloadLink": "https://skyflixer.upn.one/#dcdnxl&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#dngt8i",
+              "downloadLink": "https://skyflixer.rpmplay.me/#dngt8i&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 2,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#uy3wja",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#uy3wja&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#mq1un",
+              "downloadLink": "https://skyflixer.seekplayer.me/#mq1un&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#pdp9w1",
+              "downloadLink": "https://skyflixer.upn.one/#pdp9w1&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#1cbxdu",
+              "downloadLink": "https://skyflixer.rpmplay.me/#1cbxdu&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 3,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#af5h1s",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#af5h1s&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#uepkt",
+              "downloadLink": "https://skyflixer.seekplayer.me/#uepkt&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#gpgicd",
+              "downloadLink": "https://skyflixer.upn.one/#gpgicd&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#61zofy",
+              "downloadLink": "https://skyflixer.rpmplay.me/#61zofy&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 4,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#bcdrtu",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#bcdrtu&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#gfntw",
+              "downloadLink": "https://skyflixer.seekplayer.me/#gfntw&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#kjkofm",
+              "downloadLink": "https://skyflixer.upn.one/#kjkofm&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#61zofp",
+              "downloadLink": "https://skyflixer.rpmplay.me/#61zofp&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 5,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#jwneie",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#jwneie&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#lah1k",
+              "downloadLink": "https://skyflixer.seekplayer.me/#lah1k&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#t1tvpp",
+              "downloadLink": "https://skyflixer.upn.one/#t1tvpp&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#bfjqgo",
+              "downloadLink": "https://skyflixer.rpmplay.me/#bfjqgo&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 6,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#1hsm6b",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#1hsm6b&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#agbkb",
+              "downloadLink": "https://skyflixer.seekplayer.me/#agbkb&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#r3rjmi",
+              "downloadLink": "https://skyflixer.upn.one/#r3rjmi&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#lie6sn",
+              "downloadLink": "https://skyflixer.rpmplay.me/#lie6sn&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 7,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#youkww",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#youkww&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#9mjl9",
+              "downloadLink": "https://skyflixer.seekplayer.me/#9mjl9&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#ekes53",
+              "downloadLink": "https://skyflixer.upn.one/#ekes53&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#fd3ywa",
+              "downloadLink": "https://skyflixer.rpmplay.me/#fd3ywa&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 8,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#r5tsoa",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#r5tsoa&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#sj9di",
+              "downloadLink": "https://skyflixer.seekplayer.me/#sj9di&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#i9iht8",
+              "downloadLink": "https://skyflixer.upn.one/#i9iht8&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#oxnryz",
+              "downloadLink": "https://skyflixer.rpmplay.me/#oxnryz&dl=1"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "seasonNumber": 5,
+      "episodes": [
+        {
+          "episodeNumber": 3,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#pnqvfe",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#pnqvfe&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#hbare",
+              "downloadLink": "https://skyflixer.seekplayer.me/#hbare&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#ekesvt",
+              "downloadLink": "https://skyflixer.upn.one/#ekesvt&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#965mbp",
+              "downloadLink": "https://skyflixer.rpmplay.me/#965mbp&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 6,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#youkwm",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#youkwm&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#36tqo",
+              "downloadLink": "https://skyflixer.seekplayer.me/#36tqo&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#gpgi3r",
+              "downloadLink": "https://skyflixer.upn.one/#gpgi3r&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#tlh9ll",
+              "downloadLink": "https://skyflixer.rpmplay.me/#tlh9ll&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 9,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#oyws8",
+              "downloadLink": "https://skyflixer.seekplayer.me/#oyws8&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            },
+            "rpmshare": {
+              "videoLink": "",
+              "downloadLink": ""
+            }
+          }
+        }
+      ]
     }
   ],
   "type": "tv",
   "isManualEdit": true,
-  "lastModified": "2026-03-18T07:40:23.659Z"
+  "lastModified": "2026-03-28T07:01:33.454Z"
 }
