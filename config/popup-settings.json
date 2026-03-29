@@ -1,17 +1,17 @@
 {
   "telegram": {
-    "enabled": true,
+    "enabled": false,
     "title": "Join our Telegram!",
     "description": "Get instant updates, exclusive content & be part of our amazing community group🚀",
     "buttonText": "Join Channel Now",
     "telegramUrl": "https://t.me/MAIN_SKYFLIXER"
   },
   "announcement": {
-    "enabled": false,
-    "siteName": "",
-    "siteUrl": "",
-    "description": "",
-    "siteLink": ""
+    "enabled": true,
+    "siteName": "XONSTREAM",
+    "siteUrl": "https://imgs.search.brave.com/O9Tbr2SBUHLjOkJDuhJHs7fRazu0BYNEAdYGzqaCyaw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93MC5w/ZWFrcHguY29tL3dh/bGxwYXBlci85MTEv/NjgxL0hELXdhbGxw/YXBlci1iYXRtYW4t/dGhlLWJhdG1hbi1y/b2JlcnQtcGF0dGlu/c29uLXRoZS1iYXRt/YW4tbW92aWUuanBn",
+    "description": "Join Fast",
+    "siteLink": "skyflixer.fun"
   },
-  "lastUpdated": "2026-03-29T05:43:34.750Z"
+  "lastUpdated": "2026-03-29T05:44:54.545Z"
 }
