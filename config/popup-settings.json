@@ -1,0 +1,17 @@
+{
+  "telegram": {
+    "enabled": true,
+    "title": "Join our Telegram!",
+    "description": "Get instant updates, exclusive content & be part of our amazing community group🚀",
+    "buttonText": "Join Channel Now",
+    "telegramUrl": "https://t.me/MAIN_SKYFLIXER"
+  },
+  "announcement": {
+    "enabled": false,
+    "siteName": "",
+    "siteUrl": "",
+    "description": "",
+    "siteLink": ""
+  },
+  "lastUpdated": "2026-03-29T05:43:34.750Z"
+}
