@@ -5,10 +5,10 @@
   "tagline": "",
   "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
   "year": "2020",
-  "releaseDate": "2020-10-03",
+  "releaseDate": "",
   "status": "Released",
   "ageRating": "",
-  "tmdbRating": "8.6",
+  "tmdbRating": "",
   "genres": "",
   "runtime": "",
   "languages": "",
@@ -20,8 +20,8 @@
   "revenue": "",
   "homepage": "",
   "trailerUrl": "",
-  "posterUrl": "https://image.tmdb.org/t/p/original/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-  "backdropUrl": "https://image.tmdb.org/t/p/original/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
+  "posterUrl": "",
+  "backdropUrl": "",
   "numberOfSeasons": "1",
   "numberOfEpisodes": "",
   "episodeRuntime": "",
@@ -1247,12 +1247,38 @@
               "downloadLink": "https://skyflixer.seekplayer.me/#kt3rq&dl=1"
             },
             "upnshare": {
-              "videoLink": "",
-              "downloadLink": ""
+              "videoLink": "https://skyflixer.upn.one/#ntn8z9",
+              "downloadLink": "https://skyflixer.upn.one/#ntn8z9&dl=1"
             },
             "rpmshare": {
               "videoLink": "https://skyflixer.rpmplay.me/#tlh9vv",
               "downloadLink": "https://skyflixer.rpmplay.me/#tlh9vv&dl=1"
+            }
+          }
+        },
+        {
+          "episodeNumber": 25,
+          "episodeTitle": "",
+          "episodeDescription": "",
+          "episodeImage": "",
+          "episodeRuntime": "",
+          "episodeAirDate": "",
+          "players": {
+            "streamp2p": {
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#qp9f1p",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#qp9f1p&dl=1"
+            },
+            "seekstreaming": {
+              "videoLink": "https://skyflixer.seekplayer.me/#9mjsg",
+              "downloadLink": "https://skyflixer.seekplayer.me/#9mjsg&dl=1"
+            },
+            "upnshare": {
+              "videoLink": "https://skyflixer.upn.one/#6l6hsg",
+              "downloadLink": "https://skyflixer.upn.one/#6l6hsg&dl=1"
+            },
+            "rpmshare": {
+              "videoLink": "https://skyflixer.rpmplay.me/#j3i81o",
+              "downloadLink": "https://skyflixer.rpmplay.me/#j3i81o&dl=1"
             }
           }
         }
@@ -1452,16 +1478,16 @@
           "episodeImage": "",
           "players": {
             "streamp2p": {
-              "videoLink": "",
-              "downloadLink": ""
+              "videoLink": "https://skyflixerpro.p2pplay.pro/#af5h6q",
+              "downloadLink": "https://skyflixerpro.p2pplay.pro/#af5h6q&dl=1"
             },
             "seekstreaming": {
-              "videoLink": "",
-              "downloadLink": ""
+              "videoLink": "https://skyflixer.seekplayer.me/#gfnpz",
+              "downloadLink": "https://skyflixer.seekplayer.me/#gfnpz&dl=1"
             },
             "upnshare": {
-              "videoLink": "",
-              "downloadLink": ""
+              "videoLink": "https://skyflixer.upn.one/#9n9oj5",
+              "downloadLink": "https://skyflixer.upn.one/#9n9oj5&dl=1"
             },
             "rpmshare": {
               "videoLink": "",
@@ -1500,5 +1526,5 @@
   ],
   "type": "tv",
   "isManualEdit": true,
-  "lastModified": "2026-03-28T08:09:58.691Z"
+  "lastModified": "2026-04-06T15:03:14.926Z"
 }
