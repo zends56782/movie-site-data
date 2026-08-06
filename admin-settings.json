@@ -3,14 +3,14 @@
     "telegram": {
       "enabled": true,
       "title": "Join our Telegram!",
-      "description": "Get instant updates, exclusive content & be part of our amazing community ð",
+      "description": "Get instant updates, exclusive content & be part of our amazing community Ã°ÂÂÂ",
       "buttonText": "Join Channel Now",
       "telegramUrl": "https://t.me/MAIN_SKYFLIXER"
     },
     "announcement": {
       "enabled": false,
       "siteName": "",
-      "titleSuffix": "is Live! ð",
+      "titleSuffix": "is Live! Ã°ÂÂÂ",
       "description": "",
       "siteLink": "",
       "imageUrl": ""
@@ -24,6 +24,6 @@
   "SETTINGS_PLAYER": {
     "defaultPlayer": "vidplay",
     "defaultBackupPlayer": "screenscape",
-    "lastUpdated": "2026-08-06T11:45:11.240Z"
+    "lastUpdated": "2026-08-06T11:45:13.844Z"
   }
 }
